@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>HTML table</title>
+</head>
+<body>
+<table border="1">
+<tr>
+<td>time</td>
+<td>monday</td>
+<td>tuesday</td>
+<td>wednesday</td>
+<td>thursday</td>
+<td>friday</td>
+</tr>
+<tr>
+<td>9:30am-10:00am</td>
+<td>english</td>
+<td>chemistry</td>
+<td>coding</td>
+<td>library</td>
+<td>games</td>
+<td>lab</td>
+</tr>
+<tr>
+<th>10:ooam-10:30am</th>
+<td>chemistry</td>
+<td>coding</td>
+<td>games</td>
+<td>library</td>
+<td>lab</td>
+</tr>
+<tr>
+<th>10:30am-10:40am</th>
+<td colspan="5"> B<break> R<break> E<break> A<break> K<break>
+</tr>
+<tr>
+<th>10:40am-11:20am</th>
+<td>hindi</td>
+<td>maths</td>
+<td>lab</td>
+<td>coding</td>
+<td>library</td>
+</tr>
+<tr>
+<th>11:20am-12:00pm</th>
+<td>coding</td>
+<td>lab</td>
+<td>maths</td>
+<td>games</td>
+<td>chemistry</td>
+</tr>
+<tr>
+<th>12:00pm-1:00pm</th>
+<td colspan=
+

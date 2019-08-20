@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>form in HTML</title>
+</head>
+<body>
+<h2>Registration form</h2>
+<form>
+<fieldset>
+<legend>User Personal Information<legend>
+<label>Enter your full name<label><br>
